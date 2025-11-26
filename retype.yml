@@ -8,7 +8,7 @@ start:
   # pro: true
 
 branding:
-  title: Uranium Mine Company
+  title: Uranium Mine Simulator
   logo: /logo.png
 
 links:
@@ -30,4 +30,5 @@ search:
   minChars: 2
   mode: full
   noResultsFoundMsg: "No results found, try asking in our Discord server"
+
   placeholder: Search
