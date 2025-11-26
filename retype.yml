@@ -1,0 +1,33 @@
+input: .
+output: .retype
+
+url: https://uranium-mine-company.pages.dev/ # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+  # pro: true
+
+branding:
+  title: Uranium Mine Company
+  logo: /logo.png
+
+links:
+- text: Uranium Mine Guide (for beginners)
+  link: https://uranium-mine-company.pages.dev/underconstruction
+- text: 
+  link: https://discord.com/invite/B6Awa5SsKs
+  icon: /discord.svg
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+favicon: /logo.png
+
+search:
+  hotkeys:
+    - "/"
+  maxResults: 10
+  minChars: 2
+  mode: full
+  noResultsFoundMsg: "No results found, try asking in our Discord server"
+  placeholder: Search
