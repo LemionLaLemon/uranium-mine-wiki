@@ -32,3 +32,6 @@ search:
   noResultsFoundMsg: "No results found, try asking in our Discord server"
 
   placeholder: Search
+
+edit:
+  repo: "https://github.com/LemionLaLemon/uranium-mine-wiki"
