@@ -10,6 +10,8 @@ This wiki will use **Uranium Mine Simulator** when referring to the game and **U
 
 ## Info & History
 Uranium Mine Simulator was created on `June 10th, 2024` when two idiots thought it would be a great idea to attempt to make a game in roblox, having no experience at all. 
+
+Uranium Mine Simumlator takes place during the year 1975 in Vladivostok, Russia
 <span id="game-age" data-release="2024-06-10" aria-live="polite"></span>
 <script>
 (function(){
